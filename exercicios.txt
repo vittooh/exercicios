@@ -1,0 +1,166 @@
+0 - Hello world em python.
+Ex de saida: 
+Hello world!!
+
+0 - Hellow world em kotlin.
+Hello world!!
+
+1 - Ler dois inteiros números e apresentar a soma.
+Ex de entrada: 12 + 30
+Ex de saida: 42
+
+2 - Ler dois números decimais e apresentar a soma.
+Ex de entrada: 12.5 + 30.4
+Ex de saida: 42.9
+
+3 - Ler um nome e apresentar com a seguinte frase "Meu nome é " +  o  nome lido.
+Ex de entrada: "Bond, James Bond!"
+Ex de saida: "Meu nome é Bond, James Bond!"
+
+4 - Ler dois números e calcular a média deles.
+Ex de entrada: 10 5 
+Ex de saida: 7.5
+
+5 - Ler dois numeros e mostrar o maior deles.
+Ex de entrada: 42 31
+Ex de saida: 42
+
+6 - Ler dois números e mostrar o maior e o menor numero.
+Ex de entrada: 42 31
+Ex  de saída : 
+Maior numero eh 42.
+Menor numero é 1
+
+7 - Ler 3 notas e os pesos de cada nota e calcular a media ponderada:
+Ex de entrada :
+Digite as notas
+7 
+10 
+8
+Digite o peso de cada nota:
+1
+2
+3
+Ex de saida: 
+8.5
+
+8 - Leia dois numeros inteiros e calcule o modulo desse numero:
+Ex de entrada : -1 - (- 3) 
+Ex de Saida :  4
+
+9 - Exiba a sequencia de numero de 1 a 10:
+Ex de saida:
+1
+2
+3
+.
+.
+10
+Fazer com for e fazer com while o exercicio acima.
+
+10 - Receber um numero e contar até ele:
+Ex de entrada : 3
+Ex de saida:
+1
+2
+3
+Fazer com for e fazer com while o exercicio acima.
+
+11 - Ler uma palavra e exibir quantos caracteres a palavra tem:
+Ex de entrada: Code
+Ex de saida : 4
+
+12 - Ler duas palavras e mostrar qual das palavras é maior e o tamanho da palavra:
+Ex de entrada : Code
+Code 123
+Ex de saida : Maior palavra : Code 123, com tamanho 8
+
+13 - Ler uma palavra e trocar todas as letras 'a' para letras 'i':
+Ex de entrada: Paçoca
+Ex de saida : Piçoci
+
+
+14 - Ler uma palavra e inverter ela:
+Ex de entrada: amora
+Ex de saida aroma
+Ex de entrada: Batata
+Ex de saida: atatab
+
+15 - Ler duas palavras e Concatenar (juntar) uma palavra na outra:
+Ex de entrada : Batata é
+bão demais
+Ex de saida: Batata é bão demais.
+
+16 - Ler um numero e mostrar a saida para a as seguintes condições:
+numero menor que 0 : mostrar "Negativo"
+numero igual a zero : mostrar "Zero"
+numero maior que zero : mostrar "Positivo"
+Ex de entrada: 1
+Ex de saida : Positivo
+
+Fazer o exercicio acima tanto com if else tanto com switch case
+
+17 - Ler um numero inteiro e mostrar a hora atual acrescido do numero lido:
+Ex de entrada : 2 | Suponha que a hora atual seja 14: 52
+Ex de saida : 16:52
+
+18 - Utilizar a classe de data e hora da linguagem e pegar o dia da semana atual
+Ex de saida : Sunday.
+
+19 -  Ler uma lista de 5 numeros e mostrar o menor numero, o maior numro
+a media dos numeros e a soma de todos os numeros:
+Ex de entrada: 7 5 6
+Ex de Saida: 
+menor numero : 5
+maior numero  : 7
+media : 6
+soma : 18
+
+20 - Receba uma lista e a mostre de forma inversa
+Ex de entrada: 10 8 3 4 
+Ex de saida: 4 3 8 10
+
+21 - Verifique se para cada item da lista ele é par ou impar
+Ex de entrada : 1 2 3 4 5 6
+Ex de saida :
+1 eh impar
+2 eh par
+3 eh impar
+4 eh par
+5 eh impar
+6 eh par
+
+
+22 - Receba duas listas e as concatene em uma só:
+Ex de entrada:
+1 2 3 4
+5 6 7 8
+Ex de saida : 1 2 3 4 5 6 7 8
+
+23 - Mostrar a hora atual 
+Ex de saida : 16:36
+
+24 - Vamos jogar pedra papel, tesoura. Leia a entrada do jogador 1 e do jogador 2
+e mostre o resultado:
+    Pedra ganha da tesoura (amassando-a ou quebrando-a).
+    Tesoura ganha do papel (cortando-o).
+    Papel ganha da pedra (embrulhando-a).
+Ex de entrada : 
+j1 = pedra
+j2 = tesoura
+Ex de saida:
+Jogador 1 venceu, pedra ganha da tesoura.
+
+25 - Ler um nome e mostrar ele na vertical
+Ex de entrada : Vitor
+Ex de Saida
+V
+i
+t
+o
+r
+
+26 - Conte quantas vogais tem a palavra:
+Ex de entrada : Batata
+Ex de saida : 3
+
